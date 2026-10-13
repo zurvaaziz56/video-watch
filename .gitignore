@@ -1,0 +1,9 @@
+.DS_Store
+.env
+__pycache__/
+*.mp4
+*.mov
+*.webm
+*.m4a
+*.wav
+*.bin
